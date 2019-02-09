@@ -18,7 +18,7 @@ namespace cvsatdec
             {
                 Console.OutputEncoding = System.Text.Encoding.UTF8;
                 System.Console.WriteLine("========");
-                System.Console.WriteLine("satcvdec");
+                System.Console.WriteLine("cvsatdec");
                 System.Console.WriteLine("========");
                 System.Console.WriteLine("Decompresses player character graphics from SotN for the Sega Saturn");
                 System.Console.WriteLine();
